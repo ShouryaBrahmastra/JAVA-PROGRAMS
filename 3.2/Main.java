@@ -1,21 +1,5 @@
 import java.util.Scanner;
 
-interface Dosa {
-    void show();
-}
-
-class MasalaDosa implements Dosa {
-    public void show() {
-        System.out.println("This dosa is decorated with Masala Curry");
-    }
-}
-
-class OnionDosa implements Dosa {
-    public void show() {
-        System.out.println("This dosa is decorated with onion curry");
-    }
-}
-
 class Main {
     public static void main(String[] args) {
 

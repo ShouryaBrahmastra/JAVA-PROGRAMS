@@ -1,0 +1,3 @@
+interface Dosa {
+    void show();
+}
